@@ -9,4 +9,4 @@ In January 2020, Airbnb saw 50.2 million website visits. But with the onset of t
 
 During the COVID-19 pandemic, Airbnb bookings dropped as much as 96% in some cities. Due to this, Airbnb has seen a major decline in revenue.
 
-Skills Required: Tableau, Microsoft Powerpoint
+**Skills Required:** Tableau, Microsoft Powerpoint

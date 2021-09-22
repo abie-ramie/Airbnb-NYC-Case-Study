@@ -12,6 +12,6 @@ During the COVID-19 pandemic, Airbnb bookings dropped as much as 96% in some cit
 **Skills Required:** Tableau, Microsoft Powerpoint
 
 **Files Enclosed:**
-PPT-I: A presentation with the findings and insights to be showcased to the data analysis managers and lead data analyst. 
+PPT-I: A presentation with the findings and insights to be showcased to the data analysis managers and lead data analyst.
 PPT-II: A presentation with the insights and recommendations to be showcased to the Head of Acquisitions & Operations and the Head of User Experience.
 Methodology Document: A document _(also attached in the appendix of both the presentations)_ that showcase the methodology that was undertaken for the analysis along with all the steps that were performed in detail.
